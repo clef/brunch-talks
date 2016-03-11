@@ -6,6 +6,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 * [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
+* [Are we there yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 
 ## Watched
 
