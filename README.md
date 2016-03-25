@@ -9,6 +9,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) [00:51:17] by Francesc Campoy Flores
 * [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU) (python) [29:51]
 * [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
+* [All the Little Things](https://youtu.be/8bZh5LMaSmE) by **Sandi Metz** [38:46]
 
 ## Watched
 
