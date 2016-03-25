@@ -6,6 +6,9 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 * [Are we there yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 * [Turning the database inside out](https://www.youtube.com/watch?v=fU9hR3kiOK0) by Martin Kleppmann [47:42]
+* [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) [00:51:17] by Francesc Campoy Flores
+* [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU) (python) [29:51]
+* [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
 
 ## Watched
 
