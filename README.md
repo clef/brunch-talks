@@ -5,6 +5,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso** [54:41]
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 * [Are we there yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
+* [Turning the database inside out](https://www.youtube.com/watch?v=fU9hR3kiOK0) by Martin Kleppmann [47:42]
 
 ## Watched
 
