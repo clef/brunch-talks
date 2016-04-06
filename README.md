@@ -9,6 +9,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU) (python) [29:51]
 * [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
 * [All the Little Things](https://youtu.be/8bZh5LMaSmE) by **Sandi Metz** [38:46]
+* [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
 
 ## Watched
 
