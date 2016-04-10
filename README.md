@@ -13,6 +13,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [The Other Junk Drawer: My Tests Are a Mess](http://www.confreaks.tv/videos/mwrc2014-the-other-junk-drawer-my-tests-are-a-mess) (ruby) [24:40]
 * [SOLID principles via testing](http://www.confreaks.tv/videos/larubyconf2014-solid-principles-through-tests) (ruby) [27:26]
 * [Crafting Evolvable Web API Representations](https://vimeo.com/131643022) by Darrel Miller (HTTP) [1:03:19]
+* [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
 
 ## Watched
 
