@@ -4,7 +4,6 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 * [Are we there yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
-* [Turning the database inside out](https://www.youtube.com/watch?v=fU9hR3kiOK0) by Martin Kleppmann [47:42]
 * [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) [00:51:17] by Francesc Campoy Flores
 * [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU) (python) [29:51]
 * [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
@@ -23,3 +22,4 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
 * [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso** [54:41]
+* [Turning the database inside out](https://www.youtube.com/watch?v=fU9hR3kiOK0) by Martin Kleppmann [47:42]
