@@ -5,7 +5,6 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 * [Are we there yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 * [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) [00:51:17] by Francesc Campoy Flores
-* [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU) (python) [29:51]
 * [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
 * [All the Little Things](https://youtu.be/8bZh5LMaSmE) by **Sandi Metz** [38:46]
 * [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
@@ -16,6 +15,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU) (python) [29:51]
 * [We fail to follow SemVer – and why it needn’t matter](https://www.youtube.com/watch?v=tc2UgG5L7WM) - 0:38:30
 * [Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy) - 1:01.26
 * [Introduction to JIRA & Agile Project Management](https://www.youtube.com/watch?v=NrHpXvDXVrw) - 0:42:13
