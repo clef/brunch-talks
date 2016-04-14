@@ -12,7 +12,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [SOLID principles via testing](http://www.confreaks.tv/videos/larubyconf2014-solid-principles-through-tests) (ruby) [27:26]
 * [Crafting Evolvable Web API Representations](https://vimeo.com/131643022) by Darrel Miller (HTTP) [1:03:19]
 * [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
-
+* [A Deep Dive into 2 Cross Platform Apps Written in C++](https://www.youtube.com/watch?v=5AZMEm3rZ2Y) T. Grue & S. Kabbes [1:00:39]
 ## Watched
 
 * [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU) (python) [29:51]
