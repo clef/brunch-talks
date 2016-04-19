@@ -14,7 +14,6 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) Sandi Metz [35:52]
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) Sandi Metz [32:22]
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) Sandi Metz [35:27]
-* [All the Small Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) Sandi Metz [38:46]
 
 ## Watched
 
