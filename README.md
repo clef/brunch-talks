@@ -8,7 +8,6 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
 * [All the Little Things](https://youtu.be/8bZh5LMaSmE) by **Sandi Metz** [38:46]
 * [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
-* [Crafting Evolvable Web API Representations](https://vimeo.com/131643022) by Darrel Miller (HTTP) [1:03:19]
 * [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
 * [A Deep Dive into 2 Cross Platform Apps Written in C++](https://www.youtube.com/watch?v=5AZMEm3rZ2Y) T. Grue & S. Kabbes [1:00:39]
 * [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) Sandi Metz [35:52]
@@ -18,6 +17,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [Crafting Evolvable Web API Representations](https://vimeo.com/131643022) by Darrel Miller (HTTP) [1:03:19]
 * [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU) (python) [29:51]
 * [We fail to follow SemVer – and why it needn’t matter](https://www.youtube.com/watch?v=tc2UgG5L7WM) - 0:38:30
 * [Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy) - 1:01.26
