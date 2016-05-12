@@ -15,6 +15,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) Sandi Metz [32:22]
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) Sandi Metz [35:27]
 * [Live React: Hot Reloading with Time Travel at react-europe 2015](https://www.youtube.com/watch?v=xsSnOQynTHs) Dan Abramov [30:40]
+* [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) Brandon Hays [35:26]
 
 ## Watched
 
