@@ -3,7 +3,6 @@
 Add the talks you want to watch to the following list, and we'll watch a random one each week. They should ideally be an hour or less. 
 
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
-* [Are we there yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 * [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
 * [All the Little Things](https://youtu.be/8bZh5LMaSmE) by **Sandi Metz** [38:46]
 * [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
@@ -17,6 +16,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [Are we there yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 * [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) [00:51:17] by Francesc Campoy Flores
 * [Crafting Evolvable Web API Representations](https://vimeo.com/131643022) by Darrel Miller (HTTP) [1:03:19]
 * [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU) (python) [29:51]
