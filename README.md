@@ -11,12 +11,12 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) Sandi Metz [35:52]
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) Sandi Metz [32:22]
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) Sandi Metz [35:27]
-* [Live React: Hot Reloading with Time Travel at react-europe 2015](https://www.youtube.com/watch?v=xsSnOQynTHs) Dan Abramov [30:40]
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) Brandon Hays [35:26]
 * [Who are you, really: Safer and more convenient sign-in on the web](https://www.youtube.com/watch?v=MnvUlGFb3GQ) Google Chrome Security [37:51]
 
 ## Watched
 
+* [Live React: Hot Reloading with Time Travel at react-europe 2015](https://www.youtube.com/watch?v=xsSnOQynTHs) Dan Abramov [30:40]
 * [Are we there yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 * [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) [00:51:17] by Francesc Campoy Flores
 * [Crafting Evolvable Web API Representations](https://vimeo.com/131643022) by Darrel Miller (HTTP) [1:03:19]
