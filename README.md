@@ -8,14 +8,14 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
 * [A Deep Dive into 2 Cross Platform Apps Written in C++](https://www.youtube.com/watch?v=5AZMEm3rZ2Y) T. Grue & S. Kabbes [1:00:39]
 * [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) Sandi Metz [35:52]
-* [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) Sandi Metz [32:22]
-* [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) Sandi Metz [35:27]
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) Brandon Hays [35:26]
 * [Who are you, really: Safer and more convenient sign-in on the web](https://www.youtube.com/watch?v=MnvUlGFb3GQ) Google Chrome Security [37:51]
 * [Succession](https://youtu.be/59YClXmkCVM) by Katrina Owen [40:38]
 
 ## Watched
 
+* [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) Sandi Metz [32:22]
+* [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) Sandi Metz [35:27]
 * [All the Little Things](https://youtu.be/8bZh5LMaSmE) by **Sandi Metz** [38:46]
 * [Live React: Hot Reloading with Time Travel at react-europe 2015](https://www.youtube.com/watch?v=xsSnOQynTHs) Dan Abramov [30:40]
 * [Are we there yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
