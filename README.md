@@ -11,6 +11,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) Brandon Hays [35:26]
 * [Who are you, really: Safer and more convenient sign-in on the web](https://www.youtube.com/watch?v=MnvUlGFb3GQ) Google Chrome Security [37:51]
 * [Succession](https://youtu.be/59YClXmkCVM) by Katrina Owen [40:38]
+* [Node.js, Netflix and Containerization of Netflix's Edge API](https://www.youtube.com/watch?v=oP7R20IYcs8&feature=youtu.be) by Node.js Team [14:25]
 
 ## Watched
 
