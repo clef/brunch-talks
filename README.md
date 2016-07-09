@@ -12,6 +12,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Who are you, really: Safer and more convenient sign-in on the web](https://www.youtube.com/watch?v=MnvUlGFb3GQ) Google Chrome Security [37:51]
 * [Succession](https://youtu.be/59YClXmkCVM) by Katrina Owen [40:38]
 * [Node.js, Netflix and Containerization of Netflix's Edge API](https://www.youtube.com/watch?v=oP7R20IYcs8&feature=youtu.be) by Node.js Team [14:25]
+* [Dagger: A Fast Dependency Injector for Android & Java](https://www.infoq.com/presentations/Dagger) by Jesse Wilson [46:52]
 
 ## Watched
 
