@@ -9,12 +9,12 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 * [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) Sandi Metz [35:52]
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) Brandon Hays [35:26]
 * [Who are you, really: Safer and more convenient sign-in on the web](https://www.youtube.com/watch?v=MnvUlGFb3GQ) Google Chrome Security [37:51]
-* [Succession](https://youtu.be/59YClXmkCVM) by Katrina Owen [40:38]
-* [Node.js, Netflix and Containerization of Netflix's Edge API](https://www.youtube.com/watch?v=oP7R20IYcs8&feature=youtu.be) by Node.js Team [14:25]
 * [Dagger: A Fast Dependency Injector for Android & Java](https://www.infoq.com/presentations/Dagger) by Jesse Wilson [46:52]
 
 ## Watched
 
+* [Succession](https://youtu.be/59YClXmkCVM) by Katrina Owen [40:38]
+* [Node.js, Netflix and Containerization of Netflix's Edge API](https://www.youtube.com/watch?v=oP7R20IYcs8&feature=youtu.be) by Node.js Team [14:25]
 * [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) Sandi Metz [32:22]
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) Sandi Metz [35:27]
