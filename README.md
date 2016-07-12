@@ -3,7 +3,6 @@
 Add the talks you want to watch to the following list, and we'll watch a random one each week. They should ideally be an hour or less. 
 
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
-* [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
 * [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
 * [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
 * [A Deep Dive into 2 Cross Platform Apps Written in C++](https://www.youtube.com/watch?v=5AZMEm3rZ2Y) T. Grue & S. Kabbes [1:00:39]
@@ -16,6 +15,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) Sandi Metz [32:22]
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) Sandi Metz [35:27]
 * [All the Little Things](https://youtu.be/8bZh5LMaSmE) by **Sandi Metz** [38:46]
