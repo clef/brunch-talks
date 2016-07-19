@@ -3,6 +3,13 @@
 Add the talks you want to watch to the following list, and we'll watch a random one each week. They should ideally be an hour or less. 
 
 * [Architecture the lost years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) Uncle Bob
+* [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans) by Eric Evans
+* [Implementing microservices](https://vimeo.com/79866979) Fred George
+* [Evidence-oriented programming](Evidence-Oriented Programming) by Andreas Stefik
+* [Immutability Changes Everything](https://vimeo.com/52831373) Pat Helland
+* [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language) Mark Rendle
+* [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by Kevlin Henney 
+* [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 * [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
 * [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
