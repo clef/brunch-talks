@@ -2,6 +2,7 @@
 
 Add the talks you want to watch to the following list, and we'll watch a random one each week. They should ideally be an hour or less. 
 
+* [Architecture the lost years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) Uncle Bob
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 * [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
 * [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
