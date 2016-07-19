@@ -2,12 +2,12 @@
 
 Add the talks you want to watch to the following list, and we'll watch a random one each week. They should ideally be an hour or less. 
 
+* [The birth and death of javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by Gary Bernhardt [27:22]
 * [Architecture the lost years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) Uncle Bob
 * [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans) by Eric Evans
 * [Implementing microservices](https://vimeo.com/79866979) Fred George
 * [Evidence-oriented programming](Evidence-Oriented Programming) by Andreas Stefik
 * [Immutability Changes Everything](https://vimeo.com/52831373) Pat Helland
-* [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language) Mark Rendle
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by Kevlin Henney 
 * [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
@@ -21,6 +21,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language) Mark Rendle
 * [Succession](https://youtu.be/59YClXmkCVM) by Katrina Owen [40:38]
 * [Node.js, Netflix and Containerization of Netflix's Edge API](https://www.youtube.com/watch?v=oP7R20IYcs8&feature=youtu.be) by Node.js Team [14:25]
 * [Designing Poetic APIs](https://www.youtube.com/watch?v=JQYnFyG7A8c) (python) [48:07]
