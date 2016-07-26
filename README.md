@@ -11,7 +11,6 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 7. [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by Kevlin Henney 
 8. [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
 9. [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
-10. [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
 11. [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
 12. [A Deep Dive into 2 Cross Platform Apps Written in C++](https://www.youtube.com/watch?v=5AZMEm3rZ2Y) T. Grue & S. Kabbes [1:00:39]
 13. [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) Sandi Metz [35:52]
@@ -21,6 +20,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
 * [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language) Mark Rendle
 * [Succession](https://youtu.be/59YClXmkCVM) by Katrina Owen [40:38]
 * [Node.js, Netflix and Containerization of Netflix's Edge API](https://www.youtube.com/watch?v=oP7R20IYcs8&feature=youtu.be) by Node.js Team [14:25]
