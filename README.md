@@ -4,7 +4,6 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 1. [The birth and death of javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by Gary Bernhardt [27:22]
 2. [Architecture the lost years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) Uncle Bob
-3. [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans) by Eric Evans
 4. [Implementing microservices](https://vimeo.com/79866979) Fred George
 5. [Evidence-oriented programming](Evidence-Oriented Programming) by Andreas Stefik
 6. [Immutability Changes Everything](https://vimeo.com/52831373) Pat Helland
@@ -20,6 +19,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans) by Eric Evans
 * [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
 * [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language) Mark Rendle
 * [Succession](https://youtu.be/59YClXmkCVM) by Katrina Owen [40:38]
