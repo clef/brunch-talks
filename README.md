@@ -17,6 +17,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 14. [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) Brandon Hays [35:26]
 15. [Who are you, really: Safer and more convenient sign-in on the web](https://www.youtube.com/watch?v=MnvUlGFb3GQ) Google Chrome Security [37:51]
 16. [Dagger: A Fast Dependency Injector for Android & Java](https://www.infoq.com/presentations/Dagger) by Jesse Wilson [46:52]
+17. [DigitalOcean: Microservices in Your Datacenter](https://www.infoq.com/presentations/digital-ocean-microservices) by Phil Calçado [44:43]
 
 ## Watched
 
