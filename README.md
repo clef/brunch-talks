@@ -4,7 +4,8 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 1. [The birth and death of javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by Gary Bernhardt [27:22]
 2. [Architecture the lost years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) Uncle Bob
-3. [Get a whiff of this](https://www.youtube.com/watch?v=PJjHfa5yxlU) by Sandi Metz
+3. [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) by Sandi Metz
+4. [Budgeting Reality: a New Approach to Mock Objects](https://vimeo.com/53276460)
 3. [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans)
 4. [Implementing microservices](https://vimeo.com/79866979) Fred George
 5. [Evidence-oriented programming](Evidence-Oriented Programming) by Andreas Stefik
@@ -22,6 +23,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [Get a whiff of this](https://www.youtube.com/watch?v=PJjHfa5yxlU) by Sandi Metz
 * [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) Sandi Metz [35:52]
 * [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans) by Eric Evans
 * [Introduction to Ember Fastboot](https://vimeo.com/157688134) by [**Tom Dale**](https://twitter.com/tomdale) [46:54]
