@@ -5,7 +5,6 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 1. [The birth and death of javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by Gary Bernhardt [27:22]
 2. [Architecture the lost years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) Uncle Bob
 3. [Here be dragons](http://kytrinyx.com/presentations/here-be-dragons) by Katrina Owen
-3. [Go ahead, make a mess](https://www.youtube.com/watch?v=f5I1iyso29U) by Sandi Metz
 3. [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) by Sandi Metz
 4. [Budgeting Reality: a New Approach to Mock Objects](https://vimeo.com/53276460)
 3. [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans)
@@ -25,6 +24,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [Go ahead, make a mess](https://www.youtube.com/watch?v=f5I1iyso29U) by Sandi Metz
 * [Get a whiff of this](https://www.youtube.com/watch?v=PJjHfa5yxlU) by Sandi Metz
 * [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) Sandi Metz [35:52]
 * [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans) by Eric Evans
