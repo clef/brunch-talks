@@ -2,7 +2,6 @@
 
 Add the talks you want to watch to the following list, and we'll watch a random one each week. They should ideally be an hour or less. 
 
-2. [Architecture the lost years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) Uncle Bob
 4. [Budgeting Reality: a New Approach to Mock Objects](https://vimeo.com/53276460)
 3. [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans)
 5. [Evidence-oriented programming](Evidence-Oriented Programming) by Andreas Stefik
@@ -17,6 +16,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 ## Watched
 
+* [Architecture the lost years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) Uncle Bob
 * [The birth and death of javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by Gary Bernhardt [27:22]
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) Brandon Hays [35:26]
 * [Here be dragons](http://kytrinyx.com/presentations/here-be-dragons) by Katrina Owen
