@@ -2,19 +2,16 @@
 
 Add the talks you want to watch to the following list, and we'll watch a random one each week. They should ideally be an hour or less. 
 
-3. [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans)
 5. [Evidence-oriented programming](Evidence-Oriented Programming) by Andreas Stefik
 7. [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by Kevlin Henney 
 8. [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
-9. [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 11. [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
-12. [A Deep Dive into 2 Cross Platform Apps Written in C++](https://www.youtube.com/watch?v=5AZMEm3rZ2Y) T. Grue & S. Kabbes [1:00:39]
 18. [The State of Javascript](https://www.youtube.com/watch?v=5NIL3Epadj0) by Jack Franklin [59:45]
-4. [Implementing microservices](https://vimeo.com/79866979) Fred George
-17. [DigitalOcean: Microservices in Your Datacenter](https://www.infoq.com/presentations/digital-ocean-microservices) by Phil Calçado [44:43]
 
 ## Watched
 
+* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
+* [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans)
 * [Budgeting Reality: a New Approach to Mock Objects](https://vimeo.com/53276460)
 * [Architecture the lost years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) Uncle Bob
 * [The birth and death of javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by Gary Bernhardt [27:22]
