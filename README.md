@@ -2,11 +2,12 @@
 
 Add the talks you want to watch to the following list, and we'll watch a random one each week. They should ideally be an hour or less. 
 
-5. [Evidence-oriented programming](Evidence-Oriented Programming) by Andreas Stefik
-7. [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by Kevlin Henney 
-8. [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
-11. [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
-18. [The State of Javascript](https://www.youtube.com/watch?v=5NIL3Epadj0) by Jack Franklin [59:45]
+1. [Evidence-oriented programming](Evidence-Oriented Programming) by Andreas Stefik
+2. [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by Kevlin Henney 
+3. [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
+4. [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
+5. [The State of Javascript](https://www.youtube.com/watch?v=5NIL3Epadj0) by Jack Franklin [59:45]
+6. [Concurrency is not parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) by Rob Pike
 
 ## Watched
 
