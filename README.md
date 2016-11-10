@@ -2,7 +2,7 @@
 
 Add the talks you want to watch to the following list, and we'll watch a random one each week. They should ideally be an hour or less. 
 
-1. [Evidence-oriented programming](Evidence-Oriented Programming) by Andreas Stefik
+1. [Hammock-Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by Rich Hickey
 2. [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by Kevlin Henney 
 3. [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
 4. [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
