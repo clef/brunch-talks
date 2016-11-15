@@ -7,10 +7,10 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 3. [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
 4. [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
 5. [The State of Javascript](https://www.youtube.com/watch?v=5NIL3Epadj0) by Jack Franklin [59:45]
-6. [Concurrency is not parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) by Rob Pike
 
 ## Watched
 
+* [Concurrency is not parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) by Rob Pike
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 * [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans)
 * [Budgeting Reality: a New Approach to Mock Objects](https://vimeo.com/53276460)
