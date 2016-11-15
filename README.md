@@ -7,6 +7,7 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 3. [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
 4. [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
 5. [The State of Javascript](https://www.youtube.com/watch?v=5NIL3Epadj0) by Jack Franklin [59:45]
+6. [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&t=2s) by Brian Fitzpatrick, Ben Collins-Sussman [55m]
 
 ## Watched
 
