@@ -4,13 +4,13 @@ Add the talks you want to watch to the following list, and we'll watch a random 
 
 1. [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by Kevlin Henney 
 2. [Functional Principles for Object-Oriented Developers](https://www.youtube.com/watch?v=pMGY9ViIGNU) by Jessica Kerr
-3. [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
 4. [Don't look for things! (DI talk)](https://www.youtube.com/watch?v=RlfLCWKxHJ0) Misko Hevery [39]
 4. [The State of Javascript](https://www.youtube.com/watch?v=5NIL3Epadj0) by Jack Franklin [59:45]
 5. [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&t=2s) by Brian Fitzpatrick, Ben Collins-Sussman [55m]
 
 ## Watched
 
+* [How to write clean, testable code](http://youtu.be/XcT4yYu_TTs) Misko Hevery [1:18]
 * [Hammock-Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by Rich Hickey
 * [Concurrency is not parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) by Rob Pike
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
